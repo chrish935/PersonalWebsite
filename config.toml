@@ -10,7 +10,7 @@ layoutdir = "layouts"
 publishdir = "public"
 
 author = "Christopher M. Horn"
-title = "Chris's peronsal website"
+title = "Christopher Horn, MS"
 
 theme = "hugo-goa"
 
@@ -30,7 +30,7 @@ dateformat = "Jan 2, 2006"
 ## Site Meta Settings
 [params.meta]
 description = "Simple minimalist theme"
-keywords = "student"
+keywords = "student, research, science, immunology, bioinformatics, microbiology, biochemistry, metabolism"
 
 ## Social Accounts
 [params.social]
