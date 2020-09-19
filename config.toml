@@ -1,0 +1,62 @@
+## Basic Configuration
+
+baseurl = "https://christopherhorn.com/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Christopher M. Horn"
+title = "Chris's peronsal website"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Christopher Horn"
+intro = "PhD Student"
+description = "Immunology PhD Student in the [Kielian Lab @unmc](https://www.unmc.edu/pathology-research/microbiology/kielianlab/index.html) | Interested in host-pathogen interactions, the outdoors, and cats."
+authorimage = "Headshot.jpeg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "student"
+
+## Social Accounts
+[params.social]
+email = "chris.horn@unmc.edu"
+googlescholar = "5Q-DBBMAAAAJ&hl=en"
+twitter = "MrChrisHorn"
+linkedin = "cmhorn"
+github = "chrish935"
+
+## Extras
+[params.extra]
+copyright = "© 2020. Christopher Horn. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+    name = "About"
+    weight = 100
+    identifier = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "publications"
+    identifier = "publications"
+    weight = 200
+    url = "/publications/"
