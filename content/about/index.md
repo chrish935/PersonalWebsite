@@ -4,6 +4,6 @@ draft: false
 title: About
 ---
 
-My CV: [pdf](/CV/CMH CV.pdf)
+My CV: Need to figure out how to link to CV.
 
 About me.
