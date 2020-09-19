@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Christopher Horn"
 intro = "PhD Student"
-description = "Immunology PhD Student in the [Kielian Lab @unmc](https://www.unmc.edu/pathology-research/microbiology/kielianlab/index.html)\Interested in host-pathogen interactions, the outdoors, and cats."
+description = "Immunology PhD Student in the [Kielian Lab @unmc](https://www.unmc.edu/pathology-research/microbiology/kielianlab/index.html)\n Interested in host-pathogen interactions, the outdoors, and cats."
 authorimage = "Headshot.jpeg"
 dateformat = "Jan 2, 2006"
 
