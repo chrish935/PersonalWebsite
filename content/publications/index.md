@@ -3,7 +3,7 @@ comments: false
 draft: false
 title: Publications
 ---
-Notes: * indicates equal contribution.
+Note: * indicates equal contribution.
 
 1.	Aldrich AL\*, **Horn CM\***, Heim CE, Kielian T. Transcriptional diversity and niche-specific distribution of leukocyte populations during *Staphylococcus aureus* craniotomy-associated biofilm infection. *In review*.
 
