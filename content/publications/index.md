@@ -5,7 +5,7 @@ title: Publications
 ---
 Note: * indicates equal contribution.
 
-1.	**Horn CM**, Thomas VC, Kielian T. Crosstalk between Staphylococcus aureus and innate immunity dictates infection persistence: focus on immunometabolism. *In prep*.
+1.	**Horn CM**, Thomas VC*, Kielian T*. Crosstalk between Staphylococcus aureus and innate immunity dictates infection persistence: focus on immunometabolism. *In prep*.
 
 2.	Aldrich AL\*, **Horn CM\***, Heim CE, Kielian T. Transcriptional diversity and niche-specific distribution of leukocyte populations during *Staphylococcus aureus* craniotomy-associated biofilm infection. *In review*.
 
