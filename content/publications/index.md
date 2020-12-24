@@ -3,7 +3,8 @@ comments: false
 draft: false
 title: Publications
 ---
-In reverse-chronological order: /n
+In reverse-chronological order:
+
 Note: * indicates equal contribution
 
 1.	**Horn CM** & Kielian T. Crosstalk between Staphylococcus aureus and innate immunity: focus on immunometabolism. *Accepted*.
