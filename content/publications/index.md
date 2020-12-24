@@ -1,7 +1,7 @@
 ---
 comments: false
 draft: false
-title: Publications
+title: Publications (reverse-chronological order)
 ---
 Note: * indicates equal contribution
 
