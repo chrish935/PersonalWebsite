@@ -8,4 +8,4 @@ title: Publications
 
 2.	[**Horn CM** & Kielian T. *Crosstalk between Staphylococcus aureus and innate immunity: focus on immunometabolism*. **Front. Immunol.**, 5; 11:621750, 2021. PMID: 33613555.](https://pubmed.ncbi.nlm.nih.gov/33613555/)
 
-3.	[Mahmud B\*, **Horn CM\***, Tapprich WE. Structure of the 5’ Untranslated Region of Enteroviral Genomic RNA. **J Virol**. Nov 2019; 93 (23) e01288-19. DOI: JVI.01288-19.](https://pubmed.ncbi.nlm.nih.gov/31534036/)
+3.	[Mahmud B\*, **Horn CM\***, Tapprich WE. *Structure of the 5’ Untranslated Region of Enteroviral Genomic RNA*. **J Virol**. 93 (23) e01288-19, 2019. \*Equal Contributions. PMID: 31534036.](https://pubmed.ncbi.nlm.nih.gov/31534036/)
