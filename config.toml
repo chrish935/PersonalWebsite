@@ -42,7 +42,7 @@ github = "chrish935"
 
 ## Extras
 [params.extra]
-copyright = "© 2020. Christopher M. Horn. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2021. Christopher M. Horn. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = false
 highlightjs = true
 socialmarkup = true
